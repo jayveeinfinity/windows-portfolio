@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Modern DOS';
+  src: url('../fonts/modern_dos/ModernDOS9x16.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'More Perfect DOS VGA';
+  src: url('../fonts/MorePerfectDOSVGA.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+.font-msdos {
+	font-family: 'More Perfect DOS VGA', monospace;
+}
+.font-dos {
+	font-family: 'Modern Dos', monospace;
+}
