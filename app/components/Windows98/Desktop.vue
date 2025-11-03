@@ -8,7 +8,7 @@
   definePageMeta({
     layout: 'windows-98'
   });
-  useUsePageTitle();
+  usePageTitle();
 </script>
 
 <style>

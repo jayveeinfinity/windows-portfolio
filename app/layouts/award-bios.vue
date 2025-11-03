@@ -3,7 +3,7 @@
   import energyStarLogo from '@/assets/images/misc/energy-star-logo.jpg';
   import { onMounted, onBeforeUnmount } from 'vue'
 
-  useUsePageTitle('Booting up...');
+  usePageTitle('Booting up...');
   
   const app = useApp();
 

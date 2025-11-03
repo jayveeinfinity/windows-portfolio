@@ -4,7 +4,7 @@
 
   const app = useApp();
 
-  useUsePageTitle('Windows Boot Manager');
+  usePageTitle('Windows Boot Manager');
 </script>
 
 <template>
